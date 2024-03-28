@@ -1,6 +1,6 @@
 # Bonefire
 
-ChatRoomX is a real-time chat application designed to offer an instant and interactive communication experience. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), this project represents a versatile and scalable solution for online communication needs.
+Bonefire is a real-time chat application designed to offer an instant and interactive communication experience. Developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), this project represents a versatile and scalable solution for online communication needs.
 
 ## Features
 
