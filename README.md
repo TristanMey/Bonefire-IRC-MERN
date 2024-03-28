@@ -15,6 +15,7 @@ Bonefire is a real-time chat application designed to offer an instant and intera
 - **Express.js**: Web framework used to create RESTful APIs for interacting with the database and handling HTTP requests.
 - **React.js**: JavaScript library for developing interactive and responsive user interfaces.
 - **Node.js**: Server-side JavaScript runtime environment to run the backend of the application.
+-  **Socket.io**: Real-time engine for enabling real-time, bidirectional, and event-based communication between clients and servers.
 
 ## Deployment
 
