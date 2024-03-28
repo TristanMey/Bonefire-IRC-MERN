@@ -17,27 +17,29 @@ Bonefire is a real-time chat application designed to offer an instant and intera
 - **Node.js**: Server-side JavaScript runtime environment to run the backend of the application.
 -  **Socket.io**: Real-time engine for enabling real-time, bidirectional, and event-based communication between clients and servers.
 
-## Deployment
-
-The project is deployed on GitHub, providing easy accessibility for users and potential contributors.
-
 ## Installation
 
 1. Clone the repository:
 
+```bash
+
 git clone https://github.com/yourusername/Bonefire-IRC-MERN.git
 
-Copy code
+```
 
 2. Install dependencies for both the client and server:
+
+```bash
 
 npm install at the root of the projet 
 cd /src/client
 npm install
 
-Copy code
+```
 
 3. Run the server and client:
+
+```bash
 
 In the server directory
 npm start at the root of the project 
@@ -46,6 +48,6 @@ In the client directory
 cd /src/client
 npm start 
 
-Copy code
+```
 
 4. Access the application at `http://localhost:3006` in your web browser.
