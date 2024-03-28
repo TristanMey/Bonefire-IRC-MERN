@@ -47,4 +47,4 @@ npm start
 
 Copy code
 
-4. Access the application at `http://localhost:3000` in your web browser.
+4. Access the application at `http://localhost:3006` in your web browser.
